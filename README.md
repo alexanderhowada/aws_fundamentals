@@ -1,1 +1,1 @@
-# aws_fundamentals_specialization
+# aws_fundamentals
